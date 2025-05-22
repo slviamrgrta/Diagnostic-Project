@@ -66,12 +66,3 @@ While road design is not the only factor influencing traffic, it plays a crucial
 > Road pattern optimization — especially when supported by modern technology and urban planning — can significantly reduce congestion and improve safety for all road users.
 
 ---
-
-## 📄 Related Article
-
-This project is based on a diagnostic article written by:  
-**Silvia Margareta** – Data Science Student at Universitas Bunda Mulia  
-📝 *How Road Configurations Influence Urban Traffic Congestion*  
-📅 Year: 2024
-
----
