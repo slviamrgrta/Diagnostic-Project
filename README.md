@@ -75,10 +75,3 @@ This project is based on a diagnostic article written by:
 📅 Year: 2024
 
 ---
-
-## 🙋‍♀️ Author
-
-**Silvia Margareta**  
-🎓 BSc Data Science – Universitas Bunda Mulia  
-🔗 [LinkedIn](https://www.linkedin.com/in/silvia-margareta)  
-📧 silviamargareta1363@gmail.com  
